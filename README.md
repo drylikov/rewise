@@ -19,6 +19,7 @@ python -m pip install rewise
 
 All of these functions have a required argument `q` (query) and an optional argument `lang` (language in [ISO 693](https://gist.github.com/Josantonius/b455e315bc7f790d14b136d61d9ae469) format).
 
+
 ### raw
 
 This function returns the original responses returned by Google.
