@@ -45,6 +45,7 @@ This function returns a parsed version of the raw response only containing the f
 {'corrected': 'new york', 'completed': [{'str': 'new york time', 'fmt': '', 'img': '', 'info': ''}, {'str': 'new york time now', 'fmt': '', 'img': '', 'info': ''}, {'str': 'new york mayor', 'fmt': '', 'img': '', 'info': ''}, {'str': 'new york', 'fmt': 'New York', 'img': 'http://t0.gstatic.com/images?q=tbn:ANd9GcSdM7IklNljqq9scrgwT8QOL4DvYpOZ7FjbX0jwLZ2Lb9Iw2B13R0L89qd6P7M&s=10', 'info': 'City in New York State'}, {'str': 'new york movie', 'fmt': 'new york movie', 'img': 'http://t0.gstatic.com/images?q=tbn:ANd9GcS8sUo_yUK4ITv1r_oYgQuHAC2GZJSxor74KuEee7z8&s=10', 'info': 'New York — 2009 film'}, {'str': 'new york i love you', 'fmt': 'New York, I Love You', 'img': 'http://t0.gstatic.com/images?q=tbn:ANd9GcR91LnxulQa70xQhqM5LjbzZtiOD11mnWKUjc78GqzU2B-W_mhaeo-81t83UA&s=10', 'info': '2008 film'}, {'str': 'new york mayor election', 'fmt': '', 'img': '', 'info': ''}, {'str': 'new york zip code', 'fmt': '', 'img': '', 'info': ''}, {'str': 'new york in which country', 'fmt': '', 'img': '', 'info': ''}, {'str': 'new york street gurgaon photos', 'fmt': '', 'img': '', 'info': ''}]}
 ```
 
+
 ### correct
 
 This function returns the search query corrected by Google.
